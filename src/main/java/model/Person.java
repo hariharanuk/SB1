@@ -1,7 +1,7 @@
 package model;
 
 public class Person {
-
+	// model for Person class
 	public Person() {
 		// TODO Auto-generated constructor stub
 	}
